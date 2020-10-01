@@ -1,6 +1,6 @@
-* Introduction
+* Introduction.. 
 
-Fine particulate matter (PM_{2.5}) is an ambient air pollutant for which there
+Fine a particulate matter (PM_{2.5}) is an ambient air pollutant for which there
 is strong evidence that it is harmful to human health. In the United States, the
 Environmental Protection Agency (EPA) is tasked with setting national ambient
 air quality standards for fine PM and for tracking the emissions of this
